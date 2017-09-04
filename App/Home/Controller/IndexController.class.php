@@ -22,6 +22,5 @@ class IndexController extends Controller {
     public function elements(){
         $this->display();
     }
-    
-  
+
 }
