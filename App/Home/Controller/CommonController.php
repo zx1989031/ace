@@ -12,6 +12,6 @@ namespace Home\Controller;
 class CommonController extends Controller
 {
     public function index(){
-        
+        echo "这是一测试线上修改";
     }
 }
